@@ -1,0 +1,4 @@
+const TASK_CHANNEL_OUTBOUND = "outbound";
+const TASK_CHANNEL_PREVIEW = "preview";
+
+export { TASK_CHANNEL_OUTBOUND, TASK_CHANNEL_PREVIEW };
